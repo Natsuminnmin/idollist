@@ -13,7 +13,8 @@ public class Main {
         idollist.add("Perfume");
         idollist.add("モーニング娘");
         idollist.add("＝LOVE");
-        
+        idollist.add("おニャン子クラブ");
+
 
         idollist.forEach(System.out::println);
 
