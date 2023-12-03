@@ -12,6 +12,8 @@ public class Main {
         idollist.add("乃木坂46");
         idollist.add("Perfume");
         idollist.add("モーニング娘");
+        idollist.add("＝LOVE");
+        
 
         idollist.forEach(System.out::println);
 
