@@ -9,11 +9,11 @@ public class Main {
     public static void main(String[] args) {
         List<String> idollist = new ArrayList<String>();
         idollist.add("AKB48");
-        idollist.add("乃木坂46");
+        idollist.add("nogizaka46");
         idollist.add("Perfume");
-        idollist.add("モーニング娘");
+        idollist.add("Morning Musume。");
         idollist.add("＝LOVE");
-        idollist.add("日向坂46");
+        idollist.add("hinatazaka46");
 
 
         idollist.forEach(System.out::println);
