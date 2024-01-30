@@ -14,6 +14,7 @@ public class Main {
         idollist.add("Morning Musume。");
         idollist.add("＝LOVE");
         idollist.add("hinatazaka46");
+        idollist.add("arashi");
 
 
         idollist.forEach(System.out::println);
